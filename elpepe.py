@@ -1,0 +1,1 @@
+print( "Aveces solo quiero ser feliz y me recuerdo que no se nada de fisica fundamental.")
